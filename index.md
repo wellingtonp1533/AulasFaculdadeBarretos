@@ -1,13 +1,5 @@
 ## A.P 
 Para acessar a pagina acesse [editor on GitHub](https://github.com/wellingtonp1533/AulasFaculdadeBarretos/edit/gh-pages/index.md) 
-<br>
-<br>
-<br>
-
-![images](https://user-images.githubusercontent.com/69487853/90345700-4a9ee700-dff9-11ea-91a1-6d6b4fb83310.jpg)
-<br>
-<br>
-<br>
 
 <body>
 <nav class="nav-bar">
@@ -21,6 +13,14 @@ Para acessar a pagina acesse [editor on GitHub](https://github.com/wellingtonp15
 </nav>
 </body>
 
+<br>
+<br>
+<br>
+
+![images](https://user-images.githubusercontent.com/69487853/90345700-4a9ee700-dff9-11ea-91a1-6d6b4fb83310.jpg)
+<br>
+<br>
+<br>
 
 ### About Me
 
