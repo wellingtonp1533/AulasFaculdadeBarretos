@@ -3,7 +3,7 @@ Para acessar a pagina acesse [editor on GitHub](https://github.com/wellingtonp15
 
 
 <body>
-<table border="1" align="right">
+<table border="1" align="center">
 <nav class="nav-bar">
     <div class="nav-container"> 
         <a id="nav-menu" class="nav-menu">☰ Menu</a>
