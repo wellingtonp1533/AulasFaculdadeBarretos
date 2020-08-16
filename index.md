@@ -12,8 +12,6 @@ Pagina criada para a entrega de trabalhos APO
 <p>- Developed TCP network acceleration module.</p>
 
 
-```markdown
-Syntax highlighted code block
 
 ### Interests
 <p>Quero aprender a desenvolver nessa ferramenta</p>
