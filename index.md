@@ -1,7 +1,9 @@
 ## A.P 
 Para acessar a pagina acesse [editor on GitHub](https://github.com/wellingtonp1533/AulasFaculdadeBarretos/edit/gh-pages/index.md) 
 
+
 <body>
+<table border="1" align="right">
 <nav class="nav-bar">
     <div class="nav-container"> 
         <a id="nav-menu" class="nav-menu">☰ Menu</a>
@@ -11,6 +13,7 @@ Para acessar a pagina acesse [editor on GitHub](https://github.com/wellingtonp15
         </ul>
     </div>
 </nav>
+</table>
 </body>
 
 <br>
